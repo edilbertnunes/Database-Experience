@@ -1,8 +1,8 @@
 Habilidades do Engenheiro de Dados
 
-Um Engenheiro de Dados precisa ser bom em:
+Conhecer como funciona os armazéns de dados, possuir conhecimento em plataforma de dados NoSQl, SQL, datastores e repositórios de arquivo. 
+Possuir bons conhecimentos na criação estruturação de banco dados, ser for o caso criação e otimização de queries, Conhecimento do design do banco de dados SQL e combinar várias fontes de dados. Realizar limpeza de dados até a implantação de modelos preditivos. 
 
-Conhecimentos em Bancos e Armazéns de Dados: nessa área, espera-se que o engenheiro de dados possua conhecimento sobre o maior número de plataformas de dados possíveis, de forma mais generalista do que especializada. Pois, quanto maior for a sua facilidade em manter diversas plataformas de dados como: bancos NoSQL, SQL, datastores e repositórios de arquivos como S3 e HDFS, maior serão suas chances de alcançar bons postos de trabalho. Além de que, esse conhecimento mais generalista, permite aos profissionais uma maior flexibilidade, pois possibilita que eles elejam as plataformas que mais se encaixam às premissas e restrições dos sistemas que serão construídos.
 
 Além de conhecimentos em SQL e NoSQl o profissional deve ser capaz de:
 
